@@ -1,3 +1,3 @@
 This is README.txt
 Test close issue
-12
+git config --global user.email "251563283@qq.com"
